@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477067844 source:a:\add_polynomials\main.c
+	<stdio.h>
+	<stdlib.h>
+

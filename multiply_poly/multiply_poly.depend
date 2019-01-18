@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477157730 source:a:\multiply_poly\main.c
+	<stdio.h>
+	<stdlib.h>
+
