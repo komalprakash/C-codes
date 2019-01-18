@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502332753 source:a:\c++\substring\main.cpp
+	<iostream>
+	<string.h>
+

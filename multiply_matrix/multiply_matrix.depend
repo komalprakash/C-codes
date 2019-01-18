@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1502340450 source:a:\c++\multiply_matrix\main.cpp
+	<iostream>
+

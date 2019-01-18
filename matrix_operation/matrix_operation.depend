@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503552899 source:a:\c++\matrix_operation\main.cpp
+	<iostream>
+	<math.h>
+

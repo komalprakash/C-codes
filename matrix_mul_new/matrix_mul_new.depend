@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503507482 source:a:\c++\matrix_mul_new\main.cpp
+	<iostream>
+	<queue>
+

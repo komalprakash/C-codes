@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503327444 source:a:\c++\nptel_wealth_disp\main.c
+	<stdio.h>
+	<stdlib.h>
+
