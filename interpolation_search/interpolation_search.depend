@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473614268 source:a:\interpolation_search\main.c
+	<stdio.h>
+	<stdlib.h>
+

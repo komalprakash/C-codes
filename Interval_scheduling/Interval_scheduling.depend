@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504706450 source:a:\interval_scheduling\main.cpp
+	<iostream>
+	<stack>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504669899 source:a:\heap_min\main.cpp
+	<iostream>
+	<queue>
+

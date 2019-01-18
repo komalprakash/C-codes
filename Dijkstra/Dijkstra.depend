@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504026259 source:a:\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<stdbool.h>
+
