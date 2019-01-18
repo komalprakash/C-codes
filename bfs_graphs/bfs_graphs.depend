@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503231211 source:a:\c++\bfs_graphs\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501165699 source:a:\c++\cv_pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+

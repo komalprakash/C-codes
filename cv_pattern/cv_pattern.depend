@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501312241 source:a:\c++\cv_pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
